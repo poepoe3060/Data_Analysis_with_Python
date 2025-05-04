@@ -1,2 +1,2 @@
 # Data_Analysis_with_Python
-testing and training Data Analysis with Python
+learning, testing, training and some Projects for 'Data Analysis with Python' Course
